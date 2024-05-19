@@ -1,0 +1,10 @@
+# instruction format #####################################
+# LD FLB,addr
+# ST SDB,addr
+# ADD sink, source
+# MUL sink, source
+##########################################################
+LD FLB1, 10
+ST SDB0, 20
+ADD FLR1, FLR4
+MUL FLR2, FLR5
